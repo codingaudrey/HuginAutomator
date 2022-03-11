@@ -41,3 +41,7 @@ Create a class that inherits from ConnectionHandler.py. See ConnectionHandlerDro
 
 ### Cloud Run
 Build the Docker images from Dockerfile-AlignAndStitch and Dockerfile-convert and put the images in GCP's Docker image repository. Then, set up two Cloud Run instances with these images and create the environment variables specified in main.py. To run the application, send an http request to the Cloud Run instance--from there it will automatically download and process your photos.
+
+
+## Example
+![alt text](https://github.com/codingaudrey/HuginAutomator/blob/main/Vine\ Street\ Cincinnati.jpg?raw=true)
