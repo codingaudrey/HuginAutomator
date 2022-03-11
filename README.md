@@ -44,4 +44,4 @@ Build the Docker images from Dockerfile-AlignAndStitch and Dockerfile-convert an
 
 
 ## Example
-![alt text](https://github.com/codingaudrey/HuginAutomator/blob/main/Vine\ Street\ Cincinnati.jpg?raw=true)
+![Alt text](/Vine Street Cincinnati.jpg?raw=true "Title")
